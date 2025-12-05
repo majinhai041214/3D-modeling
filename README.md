@@ -11,10 +11,11 @@
 
   - 项目运行命令：
     ```bash
-g++ -std=c++17 src/main.cpp src/glad.c \
+    g++ -std=c++17 src/main.cpp src/glad.c \
     -Iinclude -Llib \
     -lglfw3 -lopengl32 -lgdi32 \
     -o exe/app.exe
+    
 
 ## 🚀 项目目标（Project Goals）
 
