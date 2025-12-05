@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "d:/OpenGLproject",
       "program": "d:/OpenGLproject/build/Debug/outDebug",
+=======
+      "cwd": "d:/OpenGLproject/src",
+      "program": "d:/OpenGLproject/src/build/Debug/outDebug",
+>>>>>>> 1968aec (first commit)
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
