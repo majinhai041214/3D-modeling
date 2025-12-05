@@ -15,7 +15,6 @@
     -Iinclude -Llib \
     -lglfw3 -lopengl32 -lgdi32 \
     -o exe/app.exe
-    
 
 ## 🚀 项目目标（Project Goals）
 
