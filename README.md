@@ -5,6 +5,16 @@
 项目采用 **C/C++ + OpenGL** 实现核心渲染流程，通过逐步迭代的方式构建完整的 3D 可视化功能。
 
 ---
+## 项目初始化
+  - g++ --version
+    g++ (x86_64-win32-seh-rev0, Built by MinGW-W64 project) 8.1.0
+
+  - 项目运行命令：
+    ```bash
+g++ -std=c++17 src/main.cpp src/glad.c \
+    -Iinclude -Llib \
+    -lglfw3 -lopengl32 -lgdi32 \
+    -o exe/app.exe
 
 ## 🚀 项目目标（Project Goals）
 
